@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about Sparkles Cleaning & Logistics – Our mission, team, and commitment to quality service.">
+    <title>About Us | Sparkles Cleaning & Logistics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Sparkles Cleaning & Logistics</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>About Our Company</h2>
+        <p>Founded in 2024, Sparkles Cleaning & Logistics Services is dedicated to providing top-tier cleaning and moving solutions. Our team of trained professionals ensures every space shines and every move is seamless.</p>
+        
+        <h3>Our Mission</h3>
+        <p>To deliver exceptional service with attention to detail, reliability, and eco-friendly practices.</p>
+        
+        <h3>Why Choose Us?</h3>
+        <ul>
+            <li>✅ Fully Insured & Bonded</li>
+            <li>✅ Eco-Friendly Cleaning Products</li>
+            <li>✅ 24/7 Customer Support</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sparkles Cleaning & Logistics Services</p>
+    </footer>
+</body>
+</html>
