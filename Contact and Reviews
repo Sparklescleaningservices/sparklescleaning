@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact Sparkles Cleaning & Logistics for a free quote. Read customer reviews and leave feedback.">
+    <title>Contact Us | Sparkles Cleaning & Logistics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Sparkles Cleaning & Logistics</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="contact-form">
+        <h2>Get in Touch</h2>
+        <form id="contactForm">
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <section class="reviews">
+        <h2>Customer Reviews</h2>
+        <div class="review">
+            <p>"Sparkles did an amazing job cleaning my office! Highly recommend." – <strong>Sarah K.</strong></p>
+        </div>
+        <div class="review">
+            <p>"Fast and efficient moving service. Will use them again!" – <strong>James L.</strong></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sparkles Cleaning & Logistics Services</p>
+    </footer>
+</body>
+</html>
